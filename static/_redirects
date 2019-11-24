@@ -1,0 +1,4 @@
+/ /projects
+
+# Redirect default Netlify subdomain to primary domain
+https://condescending-fermat-6aadee.netlify.com/* https://www.michaelumansky.com/:splat 301!
